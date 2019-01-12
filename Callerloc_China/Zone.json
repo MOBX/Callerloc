@@ -1,0 +1,210 @@
+//全球国家代码库,最新209条记录
+{ "_id" : "1", "enName" : "United States of America", "chName" : "美国", "domain" : "US", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "meiguo", "state" : 1 }
+{ "_id" : "1242", "enName" : "Bahamas", "chName" : "巴哈马", "domain" : "BS", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "bahama", "state" : 1 }
+{ "_id" : "1246", "enName" : "Barbados", "chName" : "巴巴多斯", "domain" : "BB", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "babaduosi", "state" : 1 }
+{ "_id" : "1264", "enName" : "Anguilla", "chName" : "安圭拉岛", "domain" : "AI", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "anguiladao", "state" : 1 }
+{ "_id" : "1268", "enName" : "Antigua and Barbuda", "chName" : "安提瓜和巴布达", "domain" : "AG", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "antiguahebabuda", "state" : 1 }
+{ "_id" : "1284", "enName" : "Virgin Islands, US", "chName" : "美属维京群岛", "domain" : "VI", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "meishuweijingqundao", "state" : 1 }
+{ "_id" : "1340", "enName" : "Virgin Islands, British", "chName" : "英属维京群岛", "domain" : "VG", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "yingshuweijingqundao", "state" : 1 }
+{ "_id" : "1345", "enName" : "Cayman Is.", "chName" : "开曼群岛", "domain" : "KY", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "kaimanqundao", "state" : 1 }
+{ "_id" : "1441", "enName" : "Bermuda Is.", "chName" : "百慕大群岛", "domain" : "BM", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "baimudaqundao", "state" : 1 }
+{ "_id" : "1473", "enName" : "Grenada", "chName" : "格林纳达", "domain" : "GD", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "gelinnada", "state" : 1 }
+{ "_id" : "1649", "enName" : "Turks and Caicos Islands", "chName" : "特克斯和凯科斯群岛", "domain" : "TC", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "tekesihekaikesiqundao", "state" : 1 }
+{ "_id" : "1664", "enName" : "Montserrat Is", "chName" : "蒙特塞拉特岛", "domain" : "MS", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "mengtesailatedao", "state" : 1 }
+{ "_id" : "1671", "enName" : "Guam", "chName" : "关岛", "domain" : "GU", "timezone" : 2, "rule" : "^\\d+", "pingyin" : "guandao", "state" : 1 }
+{ "_id" : "1758", "enName" : "St.Lucia", "chName" : "圣卢西亚", "domain" : "LC", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "shengluxiya", "state" : 1 }
+{ "_id" : "1767", "enName" : "Dominica", "chName" : "多米尼克", "domain" : "DM", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "duominike", "state" : 1 }
+{ "_id" : "1784", "enName" : "St.Vincent", "chName" : "圣文森特", "domain" : "VC", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "shengwensente", "state" : 1 }
+{ "_id" : "1787", "enName" : "Puerto Rico", "chName" : "波多黎各", "domain" : "PR", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "boduolige", "state" : 1 }
+{ "_id" : "1809", "chName" : "多米尼加共和国", "domain" : "DO", "enName" : "Dominican Republic", "pingyin" : "duominijiagongheguo", "rule" : "^\\d+", "state" : 1, "timezone" : -12 }
+{ "_id" : "1868", "enName" : "Trinidad and Tobago", "chName" : "特立尼达和多巴哥", "domain" : "TT", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "telinidaheduobage", "state" : 1 }
+{ "_id" : "1869", "enName" : "Saint Kitts and Nevis", "chName" : "圣基茨和尼维斯", "domain" : "KN", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "shengjiciheniweisi", "state" : 1 }
+{ "_id" : "1876", "enName" : "Jamaica", "chName" : "牙买加", "domain" : "JM", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "yamaijia", "state" : 1 }
+{ "_id" : "20", "enName" : "Egypt", "chName" : "埃及", "domain" : "EG", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "aiji", "state" : 1 }
+{ "_id" : "211", "enName" : "South Sudan", "chName" : "南苏丹共和国", "domain" : "SS", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "nansudangongheguo", "state" : 1 }
+{ "_id" : "212", "enName" : "Morocco", "chName" : "摩洛哥", "domain" : "MA", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "moluoge", "state" : 1 }
+{ "_id" : "213", "enName" : "Algeria", "chName" : "阿尔及利亚", "domain" : "DZ", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "aerjiliya", "state" : 1 }
+{ "_id" : "216", "enName" : "Tunisia", "chName" : "突尼斯", "domain" : "TN", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "tunisi", "state" : 1 }
+{ "_id" : "218", "enName" : "Libya", "chName" : "利比亚", "domain" : "LY", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "libiya", "state" : 1 }
+{ "_id" : "220", "enName" : "Gambia", "chName" : "冈比亚", "domain" : "GM", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "gangbiya", "state" : 1 }
+{ "_id" : "221", "enName" : "Senegal", "chName" : "塞内加尔", "domain" : "SN", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "saineijiaer", "state" : 1 }
+{ "_id" : "222", "enName" : "Mauritania", "chName" : "毛里塔尼亚", "domain" : "MR", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "maolitaniya", "state" : 1 }
+{ "_id" : "223", "enName" : "Mali", "chName" : "马里", "domain" : "ML", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "mali", "state" : 1 }
+{ "_id" : "224", "enName" : "Guinea", "chName" : "几内亚", "domain" : "GN", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "jineiya", "state" : 1 }
+{ "_id" : "225", "enName" : "Ivory Coast", "chName" : "科特迪瓦", "domain" : "CI", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "ketediwa", "state" : 1 }
+{ "_id" : "226", "enName" : "Burkina-faso", "chName" : "布基纳法索", "domain" : "BF", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "bujinafasuo", "state" : 1 }
+{ "_id" : "227", "enName" : "Niger", "chName" : "尼日尔", "domain" : "NE", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "nirier", "state" : 1 }
+{ "_id" : "228", "enName" : "Togo", "chName" : "多哥", "domain" : "TG", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "duoge", "state" : 1 }
+{ "_id" : "229", "enName" : "Benin", "chName" : "贝宁", "domain" : "BJ", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "beining", "state" : 1 }
+{ "_id" : "230", "enName" : "Mauritius", "chName" : "毛里求斯", "domain" : "MU", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "maoliqiusi", "state" : 1 }
+{ "_id" : "231", "enName" : "Liberia", "chName" : "利比里亚", "domain" : "LR", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "libiliya", "state" : 1 }
+{ "_id" : "232", "enName" : "Sierra Leone", "chName" : "塞拉利昂", "domain" : "SL", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "sailaliang", "state" : 1 }
+{ "_id" : "233", "enName" : "Uzbekistan", "chName" : "乌兹别克斯坦", "domain" : "UZ", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "wuzibiekesitan", "state" : 1 }
+{ "_id" : "234", "enName" : "Nigeria", "chName" : "尼日利亚", "domain" : "NG", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "niriliya", "state" : 1 }
+{ "_id" : "235", "enName" : "Chad", "chName" : "乍得", "domain" : "TD", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "zhade", "state" : 1 }
+{ "_id" : "236", "enName" : "Central African Republic", "chName" : "中非共和国", "domain" : "CF", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "zhongfeigongheguo", "state" : 1 }
+{ "_id" : "237", "enName" : "Cameroon", "chName" : "喀麦隆", "domain" : "CM", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "kamailong", "state" : 1 }
+{ "_id" : "238", "enName" : "Cape Verde", "chName" : "佛得角共和国", "domain" : "CV", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "fodejiaogongheguo", "state" : 1 }
+{ "_id" : "239", "enName" : "Sao Tome and Principe", "chName" : "圣多美和普林西比", "domain" : "ST", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "shengduomeihepulinxibi", "state" : 1 }
+{ "_id" : "240", "enName" : "Equatorial Guinea", "chName" : "赤道几内亚", "domain" : "GQ", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "chidaojineiya", "state" : 1 }
+{ "_id" : "241", "enName" : "Gabon", "chName" : "加蓬", "domain" : "GA", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "jiapeng", "state" : 1 }
+{ "_id" : "242", "enName" : "Congo", "chName" : "刚果", "domain" : "CG", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "gangguo", "state" : 1 }
+{ "_id" : "243", "enName" : "Zaire", "chName" : "扎伊尔", "domain" : "ZR", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "zhayier", "state" : 1 }
+{ "_id" : "244", "enName" : "Angola", "chName" : "安哥拉", "domain" : "AO", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "angela", "state" : 1 }
+{ "_id" : "245", "enName" : "Guinea-Bissau", "chName" : "几内亚比绍", "domain" : "GW", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "jineiyabishao", "state" : 1 }
+{ "_id" : "248", "enName" : "Seychelles", "chName" : "塞舌尔", "domain" : "SC", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "saisheer", "state" : 1 }
+{ "_id" : "249", "enName" : "Sudan", "chName" : "苏丹", "domain" : "SD", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "sudan", "state" : 1 }
+{ "_id" : "250", "enName" : "Rwanda", "chName" : "卢旺达", "domain" : "RW", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "luwangda", "state" : 1 }
+{ "_id" : "251", "enName" : "Ethiopia", "chName" : "埃塞俄比亚", "domain" : "ET", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "aisaiebiya", "state" : 1 }
+{ "_id" : "252", "enName" : "Somali", "chName" : "索马里", "domain" : "SO", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "suomali", "state" : 1 }
+{ "_id" : "253", "enName" : "Djibouti", "chName" : "吉布提", "domain" : "DJ", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "jibuti", "state" : 1 }
+{ "_id" : "254", "enName" : "Kenya", "chName" : "肯尼亚", "domain" : "KE", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "kenniya", "state" : 1 }
+{ "_id" : "255", "enName" : "Tanzania", "chName" : "坦桑尼亚", "domain" : "TZ", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "tansangniya", "state" : 1 }
+{ "_id" : "256", "enName" : "Uganda", "chName" : "乌干达", "domain" : "UG", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "wuganda", "state" : 1 }
+{ "_id" : "257", "enName" : "Burundi", "chName" : "布隆迪", "domain" : "BI", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "bulongdi", "state" : 1 }
+{ "_id" : "258", "enName" : "Mozambique", "chName" : "莫桑比克", "domain" : "MZ", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "mosangbike", "state" : 1 }
+{ "_id" : "260", "enName" : "Zambia", "chName" : "赞比亚", "domain" : "ZM", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "zanbiya", "state" : 1 }
+{ "_id" : "261", "enName" : "Madagascar", "chName" : "马达加斯加", "domain" : "MG", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "madajiasijia", "state" : 1 }
+{ "_id" : "262", "enName" : "Reunion", "chName" : "留尼旺", "domain" : "RE", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "liuniwang", "state" : 1 }
+{ "_id" : "263", "enName" : "Zimbabwe", "chName" : "津巴布韦", "domain" : "ZW", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "jinbabuwei", "state" : 1 }
+{ "_id" : "264", "enName" : "Namibia", "chName" : "纳米比亚", "domain" : "NA", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "namibiya", "state" : 1 }
+{ "_id" : "265", "enName" : "Malawi", "chName" : "马拉维", "domain" : "MW", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "malawei", "state" : 1 }
+{ "_id" : "266", "enName" : "Lesotho", "chName" : "莱索托", "domain" : "LS", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "laisuotuo", "state" : 1 }
+{ "_id" : "267", "enName" : "Botswana", "chName" : "博茨瓦纳", "domain" : "BW", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "bociwana", "state" : 1 }
+{ "_id" : "268", "enName" : "Swaziland", "chName" : "斯威士兰", "domain" : "SZ", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "siweishilan", "state" : 1 }
+{ "_id" : "269", "enName" : "Mayotte", "chName" : "马约特岛", "domain" : "YT", "timezone" : 3, "rule" : "^\\d+", "pingyin" : "mayuetedao", "state" : 1 }
+{ "_id" : "27", "enName" : "South Africa", "chName" : "南非", "domain" : "ZA", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "nanfei", "state" : 1 }
+{ "_id" : "297", "enName" : "Aruba", "chName" : "阿鲁巴", "domain" : "AW", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "aluba", "state" : 1 }
+{ "_id" : "298", "enName" : "Faroe Islands", "chName" : "法罗群岛", "domain" : "FO", "timezone" : 0, "rule" : "^\\d+", "pingyin" : "faluoqundao", "state" : 1 }
+{ "_id" : "299", "enName" : "Greenland", "chName" : "格陵兰岛", "domain" : "GL", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "gelinglandao", "state" : 1 }
+{ "_id" : "30", "enName" : "Greece", "chName" : "希腊", "domain" : "GR", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "xila", "state" : 1 }
+{ "_id" : "31", "enName" : "Netherlands", "chName" : "荷兰", "domain" : "NL", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "helan", "state" : 1 }
+{ "_id" : "32", "enName" : "Belgium", "chName" : "比利时", "domain" : "BE", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "bilishi", "state" : 1 }
+{ "_id" : "33", "enName" : "France", "chName" : "法国", "domain" : "FR", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "faguo", "state" : 1 }
+{ "_id" : "34", "enName" : "Spain", "chName" : "西班牙", "domain" : "ES", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "xibanya", "state" : 1 }
+{ "_id" : "350", "enName" : "Gibraltar", "chName" : "直布罗陀", "domain" : "GI", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "zhibuluotuo", "state" : 1 }
+{ "_id" : "351", "enName" : "Portugal", "chName" : "葡萄牙", "domain" : "PT", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "putaoya", "state" : 1 }
+{ "_id" : "352", "enName" : "Luxembourg", "chName" : "卢森堡", "domain" : "LU", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "lusenbao", "state" : 1 }
+{ "_id" : "353", "enName" : "Ireland", "chName" : "爱尔兰", "domain" : "IE", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "aierlan", "state" : 1 }
+{ "_id" : "354", "enName" : "Iceland", "chName" : "冰岛", "domain" : "IS", "timezone" : -9, "rule" : "^\\d+", "pingyin" : "bingdao", "state" : 1 }
+{ "_id" : "355", "enName" : "Albania", "chName" : "阿尔巴尼亚", "domain" : "AL", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "aerbaniya", "state" : 1 }
+{ "_id" : "356", "enName" : "Malta", "chName" : "马耳他", "domain" : "MT", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "maerta", "state" : 1 }
+{ "_id" : "357", "enName" : "Cyprus", "chName" : "塞浦路斯", "domain" : "CY", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "saipulusi", "state" : 1 }
+{ "_id" : "358", "enName" : "Finland", "chName" : "芬兰", "domain" : "FI", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "fenlan", "state" : 1 }
+{ "_id" : "359", "enName" : "Bulgaria", "chName" : "保加利亚", "domain" : "BG", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "baojialiya", "state" : 1 }
+{ "_id" : "36", "enName" : "Hungary", "chName" : "匈牙利", "domain" : "HU", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "xiongyali", "state" : 1 }
+{ "_id" : "370", "enName" : "Lithuania", "chName" : "立陶宛", "domain" : "LT", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "litaowan", "state" : 1 }
+{ "_id" : "371", "enName" : "Latvia", "chName" : "拉脱维亚", "domain" : "LV", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "latuoweiya", "state" : 1 }
+{ "_id" : "372", "enName" : "Estonia", "chName" : "爱沙尼亚", "domain" : "EE", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "aishaniya", "state" : 1 }
+{ "_id" : "373", "enName" : "Moldova, Republic of", "chName" : "摩尔多瓦", "domain" : "MD", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "moerduowa", "state" : 1 }
+{ "_id" : "374", "enName" : "Armenia", "chName" : "亚美尼亚", "domain" : "AM", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "yameiniya", "state" : 1 }
+{ "_id" : "375", "enName" : "Belarus", "chName" : "白俄罗斯", "domain" : "BY", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "baieluosi", "state" : 1 }
+{ "_id" : "376", "enName" : "Andorra", "chName" : "安道尔共和国", "domain" : "AD", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "andaoergongheguo", "state" : 1 }
+{ "_id" : "377", "enName" : "Monaco", "chName" : "摩纳哥", "domain" : "MC", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "monage", "state" : 1 }
+{ "_id" : "380", "enName" : "Ukraine", "chName" : "乌克兰", "domain" : "UA", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "wukelan", "state" : 1 }
+{ "_id" : "381", "enName" : "Yugoslavia", "chName" : "南斯拉夫", "domain" : "YU", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "nansilafu", "state" : 1 }
+{ "_id" : "382", "enName" : "Montenegro", "chName" : "黑山共和国", "domain" : "ME", "timezone" : 1, "rule" : "^\\d+", "pingyin" : "heishangongheguo", "state" : 1 }
+{ "_id" : "385", "enName" : "Croatia", "chName" : "克罗地亚共和国", "domain" : "HR", "timezone" : 1, "rule" : "^\\d+", "pingyin" : "keluodiyagongheguo", "state" : 1 }
+{ "_id" : "386", "enName" : "Slovenia", "chName" : "斯洛文尼亚", "domain" : "SI", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "siluowenniya", "state" : 1 }
+{ "_id" : "387", "enName" : "Bosnia and Herzegovina", "chName" : "波黑共和国", "domain" : "BA", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "boheigongheguo", "state" : 1 }
+{ "_id" : "389", "enName" : "Macedonia", "chName" : "马其顿共和国", "domain" : "MK", "timezone" : 1, "rule" : "^\\d+", "pingyin" : "maqidungongheguo", "state" : 1 }
+{ "_id" : "39", "enName" : "Italy", "chName" : "意大利", "domain" : "IT", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "yidali", "state" : 1 }
+{ "_id" : "40", "enName" : "Romania", "chName" : "罗马尼亚", "domain" : "RO", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "luomaniya", "state" : 1 }
+{ "_id" : "41", "enName" : "Switzerland", "chName" : "瑞士", "domain" : "CH", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "ruishi", "state" : 1 }
+{ "_id" : "420", "enName" : "Czech Republic", "chName" : "捷克", "domain" : "CZ", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "jieke", "state" : 1 }
+{ "_id" : "421", "enName" : "Slovakia", "chName" : "斯洛伐克", "domain" : "SK", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "siluofake", "state" : 1 }
+{ "_id" : "423", "enName" : "Liechtenstein", "chName" : "列支敦士登", "domain" : "LI", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "liezhidunshideng", "state" : 1 }
+{ "_id" : "43", "enName" : "Austria", "chName" : "奥地利", "domain" : "AT", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "aodili", "state" : 1 }
+{ "_id" : "44", "enName" : "United Kiongdom", "chName" : "英国", "domain" : "GB", "timezone" : -8, "rule" : "^\\d+", "pingyin" : "yingguo", "state" : 1 }
+{ "_id" : "45", "enName" : "Denmark", "chName" : "丹麦", "domain" : "DK", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "danmai", "state" : 1 }
+{ "_id" : "46", "enName" : "Sweden", "chName" : "瑞典", "domain" : "SE", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "ruidian", "state" : 1 }
+{ "_id" : "47", "enName" : "Norway", "chName" : "挪威", "domain" : "NO", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "nuowei", "state" : 1 }
+{ "_id" : "48", "enName" : "Poland", "chName" : "波兰", "domain" : "PL", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "bolan", "state" : 1 }
+{ "_id" : "49", "enName" : "Germany", "chName" : "德国", "domain" : "DE", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "deguo", "state" : 1 }
+{ "_id" : "501", "enName" : "Belize", "chName" : "伯利兹", "domain" : "BZ", "timezone" : -14, "rule" : "^\\d+", "pingyin" : "bolizi", "state" : 1 }
+{ "_id" : "502", "enName" : "Guatemala", "chName" : "危地马拉", "domain" : "GT", "timezone" : -14, "rule" : "^\\d+", "pingyin" : "weidimala", "state" : 1 }
+{ "_id" : "503", "enName" : "EI Salvador", "chName" : "萨尔瓦多", "domain" : "SV", "timezone" : -14, "rule" : "^\\d+", "pingyin" : "saerwaduo", "state" : 1 }
+{ "_id" : "504", "enName" : "Honduras", "chName" : "洪都拉斯", "domain" : "HN", "timezone" : -14, "rule" : "^\\d+", "pingyin" : "hongdoulasi", "state" : 1 }
+{ "_id" : "505", "enName" : "Nicaragua", "chName" : "尼加拉瓜", "domain" : "NI", "timezone" : -14, "rule" : "^\\d+", "pingyin" : "nijialagua", "state" : 1 }
+{ "_id" : "506", "enName" : "Costa Rica", "chName" : "哥斯达黎加", "domain" : "CR", "timezone" : -14, "rule" : "^\\d+", "pingyin" : "gesidalijia", "state" : 1 }
+{ "_id" : "507", "enName" : "Panama", "chName" : "巴拿马", "domain" : "PA", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "banama", "state" : 1 }
+{ "_id" : "509", "enName" : "Haiti", "chName" : "海地", "domain" : "HT", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "haidi", "state" : 1 }
+{ "_id" : "51", "enName" : "Peru", "chName" : "秘鲁", "domain" : "PE", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "milu", "state" : 1 }
+{ "_id" : "52", "enName" : "Mexico", "chName" : "墨西哥", "domain" : "MX", "timezone" : -15, "rule" : "^\\d+", "pingyin" : "moxige", "state" : 1 }
+{ "_id" : "53", "enName" : "Cuba", "chName" : "古巴", "domain" : "CU", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "guba", "state" : 1 }
+{ "_id" : "54", "enName" : "Argentina", "chName" : "阿根廷", "domain" : "AR", "timezone" : -11, "rule" : "^\\d+", "pingyin" : "agenting", "state" : 1 }
+{ "_id" : "55", "enName" : "Brazil", "chName" : "巴西", "domain" : "BR", "timezone" : -11, "rule" : "^\\d+", "pingyin" : "baxi", "state" : 1 }
+{ "_id" : "56", "enName" : "Chile", "chName" : "智利", "domain" : "CL", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "zhili", "state" : 1 }
+{ "_id" : "57", "enName" : "Colombia", "chName" : "哥伦比亚", "domain" : "CO", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "gelunbiya", "state" : 1 }
+{ "_id" : "58", "enName" : "Venezuela", "chName" : "委内瑞拉", "domain" : "VE", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "weineiruila", "state" : 1 }
+{ "_id" : "590", "enName" : "Guadeloupe", "chName" : "瓜德罗普岛", "domain" : "GP", "timezone" : 0, "rule" : "^\\d+", "pingyin" : "guadeluopudao", "state" : 1 }
+{ "_id" : "591", "enName" : "Bolivia", "chName" : "玻利维亚", "domain" : "BO", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "boliweiya", "state" : 1 }
+{ "_id" : "592", "enName" : "Guyana", "chName" : "圭亚那", "domain" : "GY", "timezone" : -11, "rule" : "^\\d+", "pingyin" : "guiyanei", "state" : 1 }
+{ "_id" : "593", "enName" : "Ecuador", "chName" : "厄瓜多尔", "domain" : "EC", "timezone" : -13, "rule" : "^\\d+", "pingyin" : "eguaduoer", "state" : 1 }
+{ "_id" : "594", "enName" : "French Guiana", "chName" : "法属圭亚那", "domain" : "GF", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "fashuguiyanei", "state" : 1 }
+{ "_id" : "595", "enName" : "Paraguay", "chName" : "巴拉圭", "domain" : "PY", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "balagui", "state" : 1 }
+{ "_id" : "596", "enName" : "Martinique", "chName" : "马提尼克", "domain" : "MQ", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "matinike", "state" : 1 }
+{ "_id" : "597", "enName" : "Suriname", "chName" : "苏里南", "domain" : "SR", "timezone" : -11, "rule" : "^\\d+", "pingyin" : "sulinan", "state" : 1 }
+{ "_id" : "598", "enName" : "Uruguay", "chName" : "乌拉圭", "domain" : "UY", "timezone" : -11, "rule" : "^\\d+", "pingyin" : "wulagui", "state" : 1 }
+{ "_id" : "599", "enName" : "Netheriands Antilles", "chName" : "荷属安的列斯", "domain" : "AN", "timezone" : -12, "rule" : "^\\d+", "pingyin" : "heshuandeliesi", "state" : 1 }
+{ "_id" : "60", "enName" : "Malaysia", "chName" : "马来西亚", "domain" : "MY", "timezone" : -0.5, "rule" : "^\\d+", "pingyin" : "malaixiya", "state" : 1 }
+{ "_id" : "61", "enName" : "Australia", "chName" : "澳大利亚", "domain" : "AU", "timezone" : 2, "rule" : "^\\d+", "pingyin" : "aodaliya", "state" : 1 }
+{ "_id" : "62", "enName" : "Indonesia", "chName" : "印度尼西亚", "domain" : "ID", "timezone" : -1, "rule" : "^\\d+", "pingyin" : "yindunixiya", "state" : 1 }
+{ "_id" : "63", "enName" : "Philippines", "chName" : "菲律宾", "domain" : "PH", "timezone" : 0, "rule" : "^\\d+", "pingyin" : "feilvbin", "state" : 1 }
+{ "_id" : "64", "enName" : "New Zealand", "chName" : "新西兰", "domain" : "NZ", "timezone" : 4, "rule" : "^\\d+", "pingyin" : "xinxilan", "state" : 1 }
+{ "_id" : "65", "enName" : "Singapore", "chName" : "新加坡", "domain" : "SG", "timezone" : 0, "rule" : "^\\d+", "pingyin" : "xinjiapo", "state" : 1 }
+{ "_id" : "66", "enName" : "Thailand", "chName" : "泰国", "domain" : "TH", "timezone" : -1, "rule" : "^\\d+", "pingyin" : "taiguo", "state" : 1 }
+{ "_id" : "670", "enName" : "East Timor", "chName" : "东帝汶民主共和国", "domain" : "TL", "timezone" : 9, "rule" : "^\\d+", "pingyin" : "dongdiwenminzhugongheguo", "state" : 1 }
+{ "_id" : "673", "enName" : "Brunei", "chName" : "文莱", "domain" : "BN", "timezone" : 1, "rule" : "^\\d+", "pingyin" : "wenlai", "state" : 1 }
+{ "_id" : "675", "enName" : "Papua New Cuinea", "chName" : "巴布亚新几内亚", "domain" : "PG", "timezone" : 2, "rule" : "^\\d+", "pingyin" : "babuyaxinjineiya", "state" : 1 }
+{ "_id" : "676", "enName" : "Tonga", "chName" : "汤加", "domain" : "TO", "timezone" : 4, "rule" : "^\\d+", "pingyin" : "tangjia", "state" : 1 }
+{ "_id" : "677", "enName" : "Solomon Is", "chName" : "所罗门群岛", "domain" : "SB", "timezone" : 3, "rule" : "^\\d+", "pingyin" : "suoluomenqundao", "state" : 1 }
+{ "_id" : "678", "enName" : "Vanuatu", "chName" : "瓦努阿图共和国", "domain" : "VU", "timezone" : 3, "rule" : "^\\d+", "pingyin" : "wanuatugongheguo", "state" : 1 }
+{ "_id" : "679", "enName" : "Fiji", "chName" : "斐济", "domain" : "FJ", "timezone" : 4, "rule" : "^\\d+", "pingyin" : "feiji", "state" : 1 }
+{ "_id" : "680", "enName" : "Palau", "chName" : "帕劳共和国", "domain" : "PW", "timezone" : 9, "rule" : "^\\d+", "pingyin" : "palaogongheguo", "state" : 1 }
+{ "_id" : "682", "enName" : "Cook Is.", "chName" : "库克群岛", "domain" : "CK", "timezone" : -18, "rule" : "^\\d+", "pingyin" : "kukequndao", "state" : 1 }
+{ "_id" : "685", "enName" : "Samoa Western", "chName" : "西萨摩亚", "domain" : "WS", "timezone" : -19, "rule" : "^\\d+", "pingyin" : "xisamoya", "state" : 1 }
+{ "_id" : "686", "enName" : "Kiribati", "chName" : "基里巴斯共和国", "domain" : "KI", "timezone" : 12, "rule" : "^\\d+", "pingyin" : "jilibasigongheguo", "state" : 1 }
+{ "_id" : "687", "enName" : "New Caledonia", "chName" : "新喀里多尼亚", "domain" : "NC", "timezone" : 11, "rule" : "^\\d+", "pingyin" : "xinkaliduoniya", "state" : 1 }
+{ "_id" : "689", "enName" : "French Polynesia", "chName" : "法属玻利尼西亚", "domain" : "PF", "timezone" : 3, "rule" : "^\\d+", "pingyin" : "fashubolinixiya", "state" : 1 }
+{ "_id" : "7", "enName" : "Russia", "chName" : "俄罗斯", "domain" : "RU", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "eluosi", "state" : 1 }
+{ "_id" : "81", "enName" : "Japan", "chName" : "日本", "domain" : "JP", "timezone" : 1, "rule" : "^\\d+", "pingyin" : "riben", "state" : 1 }
+{ "_id" : "82", "enName" : "Korea", "chName" : "韩国", "domain" : "KR", "timezone" : 1, "rule" : "^\\d+", "pingyin" : "hanguo", "state" : 1 }
+{ "_id" : "84", "enName" : "Vietnam", "chName" : "越南", "domain" : "VN", "timezone" : -1, "rule" : "^\\d+", "pingyin" : "yuenan", "state" : 1 }
+{ "_id" : "852", "enName" : "Hongkong", "chName" : "香港", "domain" : "HK", "timezone" : 0, "rule" : "^\\d+", "pingyin" : "xianggang", "state" : 1 }
+{ "_id" : "853", "enName" : "Macao", "chName" : "澳门", "domain" : "MO", "timezone" : 0, "rule" : "^\\d+", "pingyin" : "aomen", "state" : 1 }
+{ "_id" : "855", "enName" : "Kampuchea (Cambodia)", "chName" : "柬埔寨", "domain" : "KH", "timezone" : -1, "rule" : "^\\d+", "pingyin" : "jianpuzhai", "state" : 1 }
+{ "_id" : "856", "enName" : "Laos", "chName" : "老挝", "domain" : "LA", "timezone" : -1, "rule" : "^\\d+", "pingyin" : "laowo", "state" : 1 }
+{ "_id" : "86", "chName" : "中国", "domain" : "CN", "enName" : "China", "pingyin" : "zhongguo", "rule" : "^1(3|5|7|8|4)\\d{9}", "state" : 1, "timezone" : 0 }
+{ "_id" : "880", "enName" : "Bangladesh", "chName" : "孟加拉国", "domain" : "BD", "timezone" : -2, "rule" : "^\\d+", "pingyin" : "mengjialaguo", "state" : 1 }
+{ "_id" : "886", "enName" : "Taiwan", "chName" : "台湾省", "domain" : "TW", "timezone" : 0, "rule" : "^\\d+", "pingyin" : "taiwansheng", "state" : 1 }
+{ "_id" : "90", "enName" : "Turkey", "chName" : "土耳其", "domain" : "TR", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "tuerqi", "state" : 1 }
+{ "_id" : "91", "enName" : "India", "chName" : "印度", "domain" : "IN", "timezone" : -2.5, "rule" : "^\\d+", "pingyin" : "yindu", "state" : 1 }
+{ "_id" : "92", "enName" : "Pakistan", "chName" : "巴基斯坦", "domain" : "PK", "timezone" : -3, "rule" : "^\\d+", "pingyin" : "bajisitan", "state" : 1 }
+{ "_id" : "93", "enName" : "Afghanistan", "chName" : "阿富汗", "domain" : "AF", "timezone" : 3.5, "rule" : "^\\d+", "pingyin" : "afuhan", "state" : 1 }
+{ "_id" : "94", "enName" : "Sri Lanka", "chName" : "斯里兰卡", "domain" : "LK", "timezone" : 2.5, "rule" : "^\\d+", "pingyin" : "sililanka", "state" : 1 }
+{ "_id" : "95", "enName" : "Burma", "chName" : "缅甸", "domain" : "MM", "timezone" : -1.5, "rule" : "^\\d+", "pingyin" : "miandian", "state" : 1 }
+{ "_id" : "960", "enName" : "Maldives", "chName" : "马尔代夫", "domain" : "MV", "timezone" : -7, "rule" : "^\\d+", "pingyin" : "maerdaifu", "state" : 1 }
+{ "_id" : "961", "enName" : "Lebanon", "chName" : "黎巴嫩", "domain" : "LB", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "libanen", "state" : 1 }
+{ "_id" : "962", "enName" : "Jordan", "chName" : "约旦", "domain" : "JO", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "yuedan", "state" : 1 }
+{ "_id" : "963", "enName" : "Syria", "chName" : "叙利亚", "domain" : "SY", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "xuliya", "state" : 1 }
+{ "_id" : "964", "enName" : "Iraq", "chName" : "伊拉克", "domain" : "IQ", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "yilake", "state" : 1 }
+{ "_id" : "965", "enName" : "Kuwait", "chName" : "科威特", "domain" : "KW", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "keweite", "state" : 1 }
+{ "_id" : "966", "enName" : "Saudi Arabia", "chName" : "沙特阿拉伯", "domain" : "SA", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "shatealabo", "state" : 1 }
+{ "_id" : "967", "enName" : "Yemen", "chName" : "也门", "domain" : "YE", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "yemen", "state" : 1 }
+{ "_id" : "968", "enName" : "Oman", "chName" : "阿曼", "domain" : "OM", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "aman", "state" : 1 }
+{ "_id" : "970", "enName" : "Palestinian Territory", "chName" : "巴勒斯坦", "domain" : "PS", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "balesitan", "state" : 1 }
+{ "_id" : "971", "enName" : "United Arab Emirates", "chName" : "阿拉伯联合酋长国", "domain" : "AE", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "alabolianheqiuzhangguo", "state" : 1 }
+{ "_id" : "972", "enName" : "Israel", "chName" : "以色列", "domain" : "IL", "timezone" : -6, "rule" : "^\\d+", "pingyin" : "yiselie", "state" : 1 }
+{ "_id" : "973", "enName" : "Bahrain", "chName" : "巴林", "domain" : "BH", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "balin", "state" : 1 }
+{ "_id" : "974", "enName" : "Qatar", "chName" : "卡塔尔", "domain" : "QA", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "kataer", "state" : 1 }
+{ "_id" : "975", "enName" : "Bhutan", "chName" : "不丹", "domain" : "BT", "timezone" : 6, "rule" : "^\\d+", "pingyin" : "budan", "state" : 1 }
+{ "_id" : "976", "enName" : "Mongolia", "chName" : "蒙古", "domain" : "MN", "timezone" : 0, "rule" : "^\\d+", "pingyin" : "menggu", "state" : 1 }
+{ "_id" : "977", "enName" : "Nepal", "chName" : "尼泊尔", "domain" : "NP", "timezone" : -2, "rule" : "^\\d+", "pingyin" : "niboer", "state" : 1 }
+{ "_id" : "98", "enName" : "Iran", "chName" : "伊朗", "domain" : "IR", "timezone" : -4.5, "rule" : "^\\d+", "pingyin" : "yilang", "state" : 1 }
+{ "_id" : "992", "enName" : "Tajikstan", "chName" : "塔吉克斯坦", "domain" : "TJ", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "tajikesitan", "state" : 1 }
+{ "_id" : "993", "enName" : "Turkmenistan", "chName" : "土库曼斯坦", "domain" : "TM", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "tukumansitan", "state" : 1 }
+{ "_id" : "994", "enName" : "Azerbaijan", "chName" : "阿塞拜疆", "domain" : "AZ", "timezone" : -5, "rule" : "^\\d+", "pingyin" : "asaibaijiang", "state" : 1 }
+{ "_id" : "995", "enName" : "Georgia", "chName" : "格鲁吉亚", "domain" : "GE", "timezone" : -4, "rule" : "^\\d+", "pingyin" : "gelujiya", "state" : 1 }
+{ "_id" : "996", "enName" : "Kyrgyzstan", "chName" : "吉尔吉斯共和国", "domain" : "KG", "timezone" : 6, "rule" : "^\\d+", "pingyin" : "jierjisigongheguo", "state" : 1 }
+{ "_id" : "998", "enName" : "Uzbekistan", "chName" : "乌兹别克斯坦共和国", "domain" : "UZ", "timezone" : -3, "rule" : "^\\d+", "pingyin" : "wuzibiekesitangongheguo", "state" : 1 }
